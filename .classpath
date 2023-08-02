@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java SE 18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="D:/Softwares/Urjanet Project/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Urjanet Project/fontbox-1.8.16.jar" sourcepath=""/>
+	<classpathentry kind="lib" path="D:/Softwares/Urjanet Project/pdfbox-1.8.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
